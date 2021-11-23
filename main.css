@@ -1,0 +1,120 @@
+
+p.Titulos{
+	/*Tipo de letra*/
+	font-family: "Cutive Mono";
+	/*Tamaño de letra*/
+	font-size: 200%;
+	/*Borde de doble*/
+	border-style: double;
+	/*Color de borde*/
+	borde-color: gray;
+	/*Radio del borde*/
+	border-radius: 20px;
+	/*Ancho del borde*/
+	borde-width: 20px;
+	/*Color del fondo*/
+	background-color: #D38911 ;
+	/*Alineacion centrada*/
+	text-align: center;
+	/*Texto en negrita*/
+	font-weight: bold;
+	
+}
+
+p.Titulos150{
+	/*Tipo de letra*/
+	font-family: "Cutive Mono";
+	/*Tamaño de letra*/
+	font-size: 150%;
+	/*Borde de doble*/
+	border-style: double;
+	/*Color de borde*/
+	borde-color: gray;
+	/*Radio del borde*/
+	border-radius: 20px;
+	/*Ancho del borde*/
+	borde-width: 20px;
+	/*Color del fondo*/
+	background-color: #D38911 ;
+	/*Alineacion centrada*/
+	text-align: center;
+	/*Texto en negrita*/
+	font-weight: bold;
+	
+}
+
+p.tituloEagleLake{
+	/*Tipo de letra*/
+	font-family: "Eagle Lake";
+	/*Tamaño de letra*/
+	font-size: 200%;
+	/*Borde de puntitos*/
+	border-style: grove;
+	/*Color de borde*/
+	borde-color: white;
+	/*Radio del borde*/
+	border-radius: 10px;
+	/*Ancho del borde*/
+	borde-width: 10px;
+	/*Color del fondo*/
+	background-color: #10CFCF;
+	/*Alineacion centrada*/
+	text-align: center;
+	/*Texto en negrita*/
+	font-weight: bold;
+	
+}
+
+p.pagina3{
+	/*Tipo de letra*/
+	font-family: "Zen Dots";
+	/*Tamaño de letra*/
+	font-size: 200%;
+	/*Borde solido*/
+	border-style: solid;
+	/*Color de borde*/
+	borde-color: gray;
+	/*Radio del borde*/
+	border-radius: 10px;
+	/*Ancho del borde*/
+	borde-width: 10px;
+	/*Color del fondo*/
+	background-color: #E5E1E1;
+	/*Alineacion centrada*/
+	text-align: center;
+	
+}
+
+/*--------------------------------------------------------------------------*/
+/*	Este bloque contiene el tipo de fuentes y el color de las fuentes		*/
+/*--------------------------------------------------------------------------*/
+
+font.cutiveMonoFont{
+	/*Tipo de fuente*/
+	font-family: "Cutive Mono";
+	/*Tamaño de fuente*/
+	font-size:22px;
+	/*Color de fuente*/
+	color: white;
+	/*Centrado del texto*/
+	text-align:center;
+	/*Texto en negrita*/
+	font-weight: bold;
+	/*Color del fondo del texto*/
+	background-color: black;
+}
+
+font.cutiveMonoFont25{
+	/*Tipo de fuente*/
+	font-family: "Cutive Mono";
+	/*Tamaño de fuente*/
+	font-size:25px;
+	/*Color de fuente*/
+	color: white;
+	/*Centrado del texto*/
+	text-align:center;
+	/*Texto en negrita*/
+	font-weight: bold;
+	/*Color del fondo del texto*/
+	background-color: black;
+}
